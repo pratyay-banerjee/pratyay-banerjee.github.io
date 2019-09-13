@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Pratyay Banerjee"
-  avatar           : "profile.png"
-  bio              : "Phd Student at Arizona State University, NLP, NLU, Question Answering, Neural Reasoning, Information Retrieval"
+  avatar           : "profile.jpg"
+  bio              : "Phd Student at Arizona State University\n NLP, NLU, Question Answering, Neural Reasoning, Information Retrieval"
   location         : "Tempe, Arizona"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
