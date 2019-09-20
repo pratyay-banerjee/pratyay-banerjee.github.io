@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-========
+
 Namoskar. I am a second year PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the Natural Language Understanding and Reasoning Lab. My research interests lie in Natural language Understanding, specifically question answering and reasoning over text. English is the primary natural language (#BenderRule) I am working on. Recently, I am trying to solve several Multiple Choice Question Answering released by AllenAI using additional knowledge such as OpenBookQA, SocialIQA, PhysicalIQA and AbductiveNLI. I am also working towards improving knowledge retrieval from knowledge bases, and building neural models for retrieval and question answering. 
 
 
