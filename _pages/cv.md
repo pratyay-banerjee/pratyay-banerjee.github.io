@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find updated one pager CV here [Download CV here](http://pratyay-banerjeek.github.io/files/CV.pdf) . 
+You can find updated one pager CV [here](http://pratyay-banerjeek.github.io/files/CV.pdf) . 
 
 Education
 ======

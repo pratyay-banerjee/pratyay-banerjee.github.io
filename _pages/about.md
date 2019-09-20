@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ========
-Namoskar. I am a second year PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the Natural Language Understanding and Reasoning Lab. My research interests lie in Natural language Understanding, specifically question answering and reasoning over text. I am currently working on English as the main natural language (#BenderRule). Recently I am working on solving several Multiple Choice Question Answering released by AllenAI using additional knowledge such as OpenBookQA, SocialIQA, PhysicalIQA and AbductiveNLI. I am working on improving knowledge retrieval from knowledge bases, and building neural QA models for retrieval and question answering. 
+Namoskar. I am a second year PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the Natural Language Understanding and Reasoning Lab. My research interests lie in Natural language Understanding, specifically question answering and reasoning over text. English is the primary natural language (#BenderRule) I am working on. Recently, I am trying to solve several Multiple Choice Question Answering released by AllenAI using additional knowledge such as OpenBookQA, SocialIQA, PhysicalIQA and AbductiveNLI. I am also working towards improving knowledge retrieval from knowledge bases, and building neural models for retrieval and question answering. 
 
 
 Education
@@ -36,7 +36,7 @@ Projects
 Code for most recent projects are available in my github. 
 
 * Mobile Computing, ASU, Spring 2019 :
- * Activity Classification using Myo Gesture Control Armband data through Machine Learning. We evaluated multiple feature generation techniques and several ML models.
+  * Activity Classification using Myo Gesture Control Armband data through Machine Learning. We evaluated multiple feature generation techniques and several ML models.
 * Statistical Machine Learning, ASU, Spring 2019 :
   * Improving Information Retrieval for Knowledge Extraction and Open Book Question Answering. We tested multiple IR retrieval methods using different SML models and multiple kinds of features, including features from BERT. 
 * Software Security, ASU, Fall 2018 :
