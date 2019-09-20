@@ -5,7 +5,7 @@ permalink: /publication/2019-5-01-paper-title-number-1
 excerpt: 'In this paper we try to solve OpenBookQA from AllenAI using multiple new techniques.'
 date: 2019-7-24
 venue: 'Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 6120-6129)'
-paperurl: 'http://pratyay-banerjee.github.io/files/1907.10738.pdf'
+paperurl: 'https://www.aclweb.org/anthology/P19-1615/'
 citation: 'Banerjee, P., Pal, K. K., Mitra, A., & Baral, C. (2019, July). Careful Selection of Knowledge to Solve Open Book Question Answering. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 6120-6129).'
 ---
 
