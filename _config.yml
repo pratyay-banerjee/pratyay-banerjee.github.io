@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pratyay Banerjee"
+title                    : "Knowledge in, Reason out."
 title_separator          : "-"
 name                     : &name "Pratyay Banerjee"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pratyay Banerjee"
   avatar           : "profile.jpg"
-  bio              : "Phd Student at Arizona State University\n NLP, NLU, Question Answering, Neural Reasoning, Information Retrieval"
+  bio              : "Natural Language Understanding | Neural Reasoning | Question Answering | Information Retrieval"
   location         : "Tempe, Arizona"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "pratyay.ju55"
   vine             :
   weibo            :
   xing             :
