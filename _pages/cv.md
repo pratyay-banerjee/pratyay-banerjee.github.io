@@ -66,6 +66,7 @@ Teaching
 Service and leadership
 ======
 * Teaching and Research Awards Reviewer for the Graduate and Professional Student Association at ASU
+* Have lead and managed teams of size 2-4 on multiple projects in Flipkart.
 
 Awards and Honors
 ======
