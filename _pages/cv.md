@@ -43,7 +43,7 @@ Skills
 * Programming Languages: Java, Python, C++, Scala, C
 * Hadoop : MR, Spark, Hive, Hadoop, Pig
 * Data Science : Pytorch, Scikit Learn, Apache Spark ML, Pandas
-* NLP : Transformers  
+* NLP : AllenNLP, Spacy, Pytorch-Transformers 
 
 Publications
 ======
