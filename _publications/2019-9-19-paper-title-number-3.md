@@ -1,7 +1,7 @@
 ---
 title: "ASU at TextGraphs 2019 Shared Task: Explanation ReGeneration using Language Models and Iterative Re-Ranking"
 collection: publications
-permalink: /publication/2019-9-19-paper-explngen
+permalink: /publication/2019-9-19-paper-number-title-3
 excerpt: 'In this paper I explore ways te regenerate explanations given a question and correct answer.'
 date: 2019-9-19
 venue: 'Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-13)'

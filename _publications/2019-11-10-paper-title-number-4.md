@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Guided Named Entity Recognition"
 collection: publications
-permalink: /publication/2019-11-10-paper-kgner
+permalink: /publication/2019-11-10-paper-title-number-4
 excerpt: 'In this paper I explore ways te regenerate explanations given a question and correct answer.'
 date: 2019-11-10
 venue: ''arxiv.org'
