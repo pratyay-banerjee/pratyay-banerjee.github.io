@@ -23,6 +23,8 @@ Education
 Updates
 ========
 
+* Our paper "Knowledge Guided Named Entity Recognition" achieves state of the art F1 scores on 15 Bio-Medical NER datasets.
+
 * Our paper "Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering" shows ways to incorporate knowledge in neural language models. 
 
 * My work on generating explanations given a question and correct answer, "Explanation ReGeneration using Language Models and Iterative Re-Ranking" ranked 2nd in the Shared Task in the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-13).
@@ -34,6 +36,10 @@ Projects
 ========
 Code for most recent projects are available in my github. 
 
+* BioNLP, ASU, Fall 2019:
+  * Our work with Dr. Devarakonda on Knowledge Guided NER achieves state of the art F1 scores on 15 Bio-Medical NER datasets.
+* Knowledge Representation, ASU, Fall 2019:
+  * We solved ASP Challenge 2019 Optimization problems using Clingo.
 * Mobile Computing, ASU, Spring 2019 :
   * Activity Classification using Myo Gesture Control Armband data through Machine Learning. We evaluated multiple feature generation techniques and several ML models.
 * Statistical Machine Learning, ASU, Spring 2019 :

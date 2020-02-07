@@ -19,12 +19,16 @@ Education
 Work experience
 ======
 
-* Fall 2018 - Now : Research Assistant
-  * Supervisor : Dr. Chitta Baral
+* Spring 2020 : Teaching Assistant
+  * CSE 576 : Natural Language Processing 
+  * Supervisor: Dr. Chitta Baral
 
 * Spring 2019 : Teaching Assistant
   * CSE 576 : Natural Language Processing 
   * Supervisor: Dr. Chitta Baral
+
+* Fall 2018 - Now : Research Assistant
+  * Supervisor : Dr. Chitta Baral
 
 * Fall 2018 : Teaching Assistant 
   * CSE 110 : Programming in Java
