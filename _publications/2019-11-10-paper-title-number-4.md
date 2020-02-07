@@ -2,8 +2,8 @@
 title: "Knowledge Guided Named Entity Recognition"
 collection: publications
 permalink: /publication/2019-11-10-paper-title-number-4
-excerpt: 'In this paper I explore ways te regenerate explanations given a question and correct answer.'
-date: 2019-11-10
+excerpt: 'In this paper I explore ways to use external knowledge to improve Named Entity Recognition in BioMedical texts.'
+date: 2019-10-10
 venue: ''arxiv.org'
 paperurl: 'https://arxiv.org/abs/1911.03869'
 citation: 'Pratyay Banerjee and Kuntal Kumar Pal and Murthy Devarakonda and Chitta Baral (2019, November). Knowledge Guided Named Entity Recognition. arxiv, CoRR.'
