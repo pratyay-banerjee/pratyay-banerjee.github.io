@@ -16,12 +16,18 @@ Education
 ========
 * Bachelor of Computer Science and Engineering, Jadavpur University, Kolkata, India, 2014 
   * Advisor: Dr. Goutam Paul, ISI, Kolkata, India
-* Ph.D in Computer Science, Arizona State University, AZ, USA, 2023 (expected)
+* Ph.D in Computer Science, Arizona State University, AZ, USA, Fall 2022 (expected)
   * Advisor: Dr. Chitta Baral, ASU, USA
 
 
 Updates
 ========
+
+* Our dataset and task paper "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning" is released. We look at a new task to generate commonsense enriched video captions, and approach the problems in a QA and Video-caption generation task.
+
+* Our survey paper "Natural Language QA Approaches using Reasoning with External Knowledge" is released in arxiv. We look at both symbolic and neural approaches to incorporate external knowledge to perform NLQA.
+
+* Our paper "VQA-LOL: Visual Question Answering under the Lens of Logic" is released. This work makes VQA models more robust to logical questions.
 
 * Our paper "Knowledge Guided Named Entity Recognition" achieves state of the art F1 scores on 15 Bio-Medical NER datasets.
 
