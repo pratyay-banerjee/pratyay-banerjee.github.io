@@ -35,6 +35,27 @@ Updates
 
 * Our paper "Careful Selection of Knowledge to solve Open Book Question Answering" was accepted in 57th Annual Meeting of the Association for Computational Linguistics.
 
+Publications
+============
+
+* "VQA-LOL: Visual Question Answering under the Lens of Logic" : 16th European Conference on Computer Vision (ECCV 2020).
+
+* "Careful Selection of Knowledge to solve Open Book Question Answering" : 57th Annual Meeting of the Association for Computational Linguistics.
+
+* "Explanation ReGeneration using Language Models and Iterative Re-Ranking" : Graph-Based Methods for Natural Language Processing (TextGraphs-13).
+
+Pre-prints
+===========
+
+* "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" - arxiv 
+* "Knowledge Fusion and Semantic Knowledge Ranking for Open Domain Question Answering" - arxiv
+* "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning" - arxiv
+* "Natural Language QA Approaches using Reasoning with External Knowledge" - arxiv
+* "Knowledge Guided Named Entity Recognition" - arxiv
+* "Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering" - arxiv
+
+
+
 Education
 ========
 * Bachelor of Computer Science and Engineering, Jadavpur University, Kolkata, India, 2014 
