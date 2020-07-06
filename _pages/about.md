@@ -9,27 +9,25 @@ redirect_from:
 ---
 
 
-Namoskar. I am a second year PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the Natural Language Understanding and Reasoning Lab. My research interests lie in Natural language Understanding, specifically question answering and reasoning over text. English is the primary natural language (#BenderRule) I am working on. Recently, I am trying to solve several Multiple Choice Question Answering released by AllenAI using additional knowledge such as OpenBookQA, SocialIQA, PhysicalIQA and AbductiveNLI. I am also working towards improving knowledge retrieval from knowledge bases, and building neural models for retrieval and question answering. 
-
-
-Education
-========
-* Bachelor of Computer Science and Engineering, Jadavpur University, Kolkata, India, 2014 
-  * Advisor: Dr. Goutam Paul, ISI, Kolkata, India
-* Ph.D in Computer Science, Arizona State University, AZ, USA, Fall 2022 (expected)
-  * Advisor: Dr. Chitta Baral, ASU, USA
+Namoskar. I am a third year PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the Natural Language Understanding and Reasoning Lab. My research interests lie in Natural language Understanding, machine learning, question answering and reasoning over text and images. I am also working towards improving knowledge understanding from structured and unstructured knowledge bases, building neural models for retrieval, text and/or image-based question answering. 
 
 
 Updates
 ========
 
+* Our paper "VQA-LOL: Visual Question Answering under the Lens of Logic" was accepted in 16th European Conference on Computer Vision (ECCV 2020). 
+
+* My work  "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" describes a framework for zero-shot question answering, and approaches early supervised models.
+
+* My work  "Knowledge Fusion and Semantic Knowledge Ranking for Open Domain Question Answering" achieves state-of-the-art on OpenBookQA and QASC datasets.
+
 * Our dataset and task paper "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning" is released. We look at a new task to generate commonsense enriched video captions, and approach the problems in a QA and Video-caption generation task.
 
 * Our survey paper "Natural Language QA Approaches using Reasoning with External Knowledge" is released in arxiv. We look at both symbolic and neural approaches to incorporate external knowledge to perform NLQA.
 
-* Our paper "VQA-LOL: Visual Question Answering under the Lens of Logic" is released. This work makes VQA models more robust to logical questions.
-
 * Our paper "Knowledge Guided Named Entity Recognition" achieves state of the art F1 scores on 15 Bio-Medical NER datasets.
+
+* Our paper "VQA-LOL: Visual Question Answering under the Lens of Logic" is released. This work makes VQA models more robust to logical questions.
 
 * Our paper "Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering" shows ways to incorporate knowledge in neural language models. 
 
@@ -37,6 +35,12 @@ Updates
 
 * Our paper "Careful Selection of Knowledge to solve Open Book Question Answering" was accepted in 57th Annual Meeting of the Association for Computational Linguistics.
 
+Education
+========
+* Bachelor of Computer Science and Engineering, Jadavpur University, Kolkata, India, 2014 
+  * Advisor: Dr. Goutam Paul, ISI, Kolkata, India
+* Ph.D in Computer Science, Arizona State University, AZ, USA, Fall 2022 (expected)
+  * Advisor: Dr. Chitta Baral, ASU, USA
 
 Projects
 ========
