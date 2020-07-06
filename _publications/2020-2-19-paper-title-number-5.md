@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-2-19-paper-title-number-5
 excerpt: 'In this paper I explore ways to make VQA models robust to Logical Questions'
 date: 2020-2-19
-venue: 'arxiv.org'
+venue: '16th European Conference on Computer Vision (ECCV 2020)'
 paperurl: 'https://arxiv.org/abs/2002.08325'
 citation: 'Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang (2020, February). VQA-LOL: Visual Question Answering under the Lens of Logic. 16th European Conference on Computer Vision (ECCV 2020)'
 ---
