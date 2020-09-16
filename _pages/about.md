@@ -15,6 +15,12 @@ Namoskar. I am a third year PhD student at Arizona State University, Tempe, USA 
 Updates
 ========
 
+* My work "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" was accepted in The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
+
+* Our paper "MUTANT: A Training Paradigm for Out-of-Distribution Generalization in VQA" was accepted in The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
+
+* Our paper "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning" was accepted in The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
+
 * Our paper "VQA-LOL: Visual Question Answering under the Lens of Logic" was accepted in 16th European Conference on Computer Vision (ECCV 2020). 
 
 * My work  "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" describes a framework for zero-shot question answering, and approaches early supervised models.
