@@ -43,6 +43,11 @@ Updates
 
 Publications
 ============
+* "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" : The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
+
+* "MUTANT: A Training Paradigm for Out-of-Distribution Generalization in VQA" : The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
+
+* "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning" : The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
 
 * "VQA-LOL: Visual Question Answering under the Lens of Logic" : 16th European Conference on Computer Vision (ECCV 2020).
 
@@ -53,9 +58,7 @@ Publications
 Pre-prints
 ===========
 
-* "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" - arxiv 
 * "Knowledge Fusion and Semantic Knowledge Ranking for Open Domain Question Answering" - arxiv
-* "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning" - arxiv
 * "Natural Language QA Approaches using Reasoning with External Knowledge" - arxiv
 * "Knowledge Guided Named Entity Recognition" - arxiv
 * "Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering" - arxiv
