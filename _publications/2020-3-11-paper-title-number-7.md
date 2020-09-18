@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-3-11-paper-title-number-7
 excerpt: 'In this paper my focussed contribution was developing the V2CQA approach to improve captioning.'
 date: 2020-3-6
-venue: 'arxiv.org'
+venue: 'EMNLP 2020'
 paperurl: 'https://arxiv.org/abs/2003.05162'
 citation: 'Zhiyuan Fang, Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang (2020, March). Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning. CoRR, arxiv.org.'
 ---

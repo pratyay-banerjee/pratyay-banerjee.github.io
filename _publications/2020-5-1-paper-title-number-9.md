@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-5-1-paper-title-number-9
 excerpt: 'In this paper I formulate a new framework to perform zero-shot question answering over unstructured and structured knowledge bases.'
 date: 2020-3-6
-venue: 'arxiv.org'
+venue: 'EMNLP 2020'
 paperurl: 'https://arxiv.org/abs/2005.00316'
 citation: 'Pratyay Banerjee and Chitta Baral (2020, May). Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering. CoRR, arxiv.org.'
 ---
