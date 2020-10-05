@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pratyay Banerjee"
   avatar           : "profile.jpg"
-  bio              : "Natural Language Understanding | Multi-modal Reasoning | Question Answering | Information Retrieval"
+  bio              : "Natural Language Understanding | Multi-modal Reasoning | Question Answering "
   location         : "Tempe, Arizona"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=CtnHOHoAAAAJ&hl=en"
+  googlescholar    : "https://www.semanticscholar.org/author/Pratyay-Banerjee/120722271"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Pratyay_Banerjee3"  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Namoskar. I am a third year PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the Natural Language Understanding and Reasoning Lab. My research interests lie in Natural language Understanding, machine learning, question answering and reasoning over text and images. I am also working towards improving knowledge understanding from structured and unstructured knowledge bases, building neural models for retrieval, text and/or image-based question answering. 
+I am currently a PhD student at Arizona State University, Tempe, USA working with Dr. Chitta Baral in the [Cognition and Intelligence Lab](https://cogintlab-asu.github.io/). My research interests are Natural Language Understanding, Question Answering and  Multi-modal Reasoning. I am also working towards improving knowledge understanding from structured and unstructured knowledge bases, building neural models for retrieval, text and/or image-based question answering. 
 
 
 Updates
