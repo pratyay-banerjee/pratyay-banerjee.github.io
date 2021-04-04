@@ -15,6 +15,8 @@ I am currently a PhD student at Arizona State University, Tempe, USA working wit
 Updates
 ========
 
+* "Self-Supervised Test-Time Learning for Reading Comprehension" was accepted in 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021). 
+
 * My work "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" was accepted in The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
 
 * Our paper "MUTANT: A Training Paradigm for Out-of-Distribution Generalization in VQA" was accepted in The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
