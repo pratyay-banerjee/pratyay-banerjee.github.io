@@ -53,6 +53,13 @@ Updates
 
 Publications
 ============
+
+* "Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction" : 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021). 
+
+* "Constructing Flow Graphs from Procedural Cybersecurity Texts" : Findings of ACL 2021.
+
+* "WeaQA: Weak Supervision via Captions for Visual Question Answering" : Findings of ACL 2021.
+
 * "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" : The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
 
 * "MUTANT: A Training Paradigm for Out-of-Distribution Generalization in VQA" : The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
