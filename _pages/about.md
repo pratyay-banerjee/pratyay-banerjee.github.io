@@ -15,6 +15,14 @@ I am currently a PhD student at Arizona State University, Tempe, USA working wit
 Updates
 ========
 
+* "Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction" was accepted in 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021). 
+
+* "Constructing Flow Graphs from Procedural Cybersecurity Texts" was accepted in Findings of ACL 2021.
+
+* "WeaQA: Weak Supervision via Captions for Visual Question Answering" was accepted in Findings of ACL 2021.
+
+* The journal version of KGNER, "Bio-Medical Named Entity Recognition via Knowledge Guidance and Question Answering" has been accepted in "ACM Transactions on Computing for Healthcare".
+
 * "Self-Supervised Test-Time Learning for Reading Comprehension" was accepted in 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021). 
 
 * My work "Self-supervised Knowledge Triplet Learning for Zero-shot Question Answering" was accepted in The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). 
@@ -33,7 +41,7 @@ Updates
 
 * Our survey paper "Natural Language QA Approaches using Reasoning with External Knowledge" is released in arxiv. We look at both symbolic and neural approaches to incorporate external knowledge to perform NLQA.
 
-* Our paper "Knowledge Guided Named Entity Recognition" achieves state of the art F1 scores on 15 Bio-Medical NER datasets.
+* Our paper "KGNER: Knowledge Guided Named Entity Recognition" achieves state of the art F1 scores on 15 Bio-Medical NER datasets.
 
 * Our paper "VQA-LOL: Visual Question Answering under the Lens of Logic" is released. This work makes VQA models more robust to logical questions.
 

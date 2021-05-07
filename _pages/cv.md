@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-You can find updated one pager CV [here](http://pratyay-banerjee.github.io/files/CV.pdf) . 
+You can find updated CV [here](http://pratyay-banerjee.github.io/files/CV.pdf) . 
 
 Education
 ======
 * Bachelor of Computer Science and Engineering, Jadavpur University, Kolkata, India, 2014
-* Ph.D in Computer Science, Arizona State University, AZ, USA, 2023 (expected)
+* Ph.D in Computer Science, Arizona State University, AZ, USA, 2022 (expected)
 
 Work experience
 ======
